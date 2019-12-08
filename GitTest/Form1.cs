@@ -19,7 +19,7 @@ namespace GitTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(this.textBox1.Text + "PCその１で変更");
+            MessageBox.Show(this.textBox1.Text + "PCその２で変更ﾋｬｯﾊｧｧｧ");
         }
     }
 }
